@@ -3,6 +3,5 @@
 HTML: Hyper Text Markup Language 
 
 CSS: Cascading Tyle Sheets
-
     * Makes the website pretty
     * this is a test
